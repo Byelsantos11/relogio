@@ -1,5 +1,5 @@
-const horario= document.getElementById ('hora')
-const minutagem= document.getElementById ('minuto')
+const horario= document.getElementById ('horas')
+const minutagem= document.getElementById ('minutos')
 const segundagem= document.getElementById ('segundos')
 
 function newtime(){
